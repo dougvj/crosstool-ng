@@ -6,5 +6,9 @@
 ## select ARCH_DEFAULT_BE
 ## select ARCH_SUPPORTS_FLAT_FORMAT
 ## select ARCH_SUPPORTS_WITH_CPU
+## select ARCH_SUPPORTS_BOTH_MMU
+## select ARCH_SUPPORTS_WITH_ABI
+## select ARCH_SUPPORTS_WITH_ARCH
+## select ARCH_SUPPORTS_WITH_TUNE
 ##
 ## help The m68k architecture
